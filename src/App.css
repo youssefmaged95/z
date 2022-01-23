@@ -3,14 +3,14 @@
 }
 
 .App-logo {
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 250px;
   pointer-events: none;
   margin-bottom: 60px;
 }
 
 body {
-  background-color: rgb(255, 204, 231);
+  color: #ffe7ee;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -20,6 +20,6 @@ body {
 }
 
 span {
-  color: rgb(202, 117, 162);
+  color: #f16f96;
   font-size: 40pt;
 }
