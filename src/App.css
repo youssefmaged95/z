@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 200px;
+  width: 200px;
+  pointer-events: none;
+  margin-bottom: 60px;
+}
+
+body {
+  background-color: rgb(255, 204, 231);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+span {
+  color: rgb(202, 117, 162);
+  font-size: 40pt;
+}
